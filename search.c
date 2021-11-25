@@ -1,3 +1,4 @@
+//This is the program to search the key in an array
 #include <stdio.h>
 
 int main(){

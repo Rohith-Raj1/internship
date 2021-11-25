@@ -1,3 +1,4 @@
+//This is a program to find the frequency of occurence of the key value in an array
 #include <stdio.h>
 
 int main(){
